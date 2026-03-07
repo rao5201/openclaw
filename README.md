@@ -1,2 +1,2 @@
 # openclaw
-openclaw网站中午版
+openclaw网站中文版
